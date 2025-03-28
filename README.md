@@ -10,7 +10,7 @@
 🔹 **Ferramentas & Outros:** Git, Figma, Vercel  
 
 <p align="center">
-  <img src="" width="500"/>
+  <img src="./gif.gif" width="500"/>
 </p>
 
 <h3 align="left">## 🌸 Let's Connect!  </h3>
