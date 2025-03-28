@@ -4,8 +4,10 @@
 ## 🚀 Tech Stack  
 🔹 **Front-end:** ReactJS, Next.js, TailwindCSS  
 🔹 **Back-end:** Node.js  
-🔹 **Ferramentas & Outros:** Git, Figma, Vercel  
+🔹 **Tools:** Git, Figma, Vercel  
 
+Portfolio
+🌟 https://portfolio-vys5-git-formulario-saras-projects-10a2db87.vercel.app
 <p align="center">
   <img src="./gif.gif" width="500"/>
 </p>
