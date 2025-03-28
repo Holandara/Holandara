@@ -1,9 +1,17 @@
-# Sarolanda<h1 align="center">Hi 👋, I'm Sara Holanda</h1>
+ Sarolanda<h1 align="center">Hi 👋, I'm Sara Holanda</h1>
 <h3 align="center">🖥️ Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holandara&label=Profile%20views&color=0e75b6&style=flat" alt="holandara" /> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Tech Stack  
+🔹 **Front-end:** ReactJS, Next.js, TailwindCSS  
+🔹 **Back-end:** Node.js  
+🔹 **Ferramentas & Outros:** Git, Figma, Vercel  
+
+---
+
+<h3 align="left">## 🌸 Let's Connect!  </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-holanda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-holanda/" height="30" width="40" /></a>
 </p>
