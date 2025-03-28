@@ -9,7 +9,9 @@
 🔹 **Back-end:** Node.js  
 🔹 **Ferramentas & Outros:** Git, Figma, Vercel  
 
----
+<p align="center">
+  <img src="" width="500"/>
+</p>
 
 <h3 align="left">## 🌸 Let's Connect!  </h3>
 <p align="left">
