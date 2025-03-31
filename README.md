@@ -29,5 +29,5 @@ Portfolio
 <a><img src="typescript.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=holandara&label=Profile%20views&color=ff9ee4&style=flat" style="border-radius: 8px;" />
+<img src="https://komarev.com/ghpvc/?username=holandara&label=Profile%20views&color=1499c9&style=flat" style="border-radius: 8px;" />
 
