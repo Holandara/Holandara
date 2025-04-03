@@ -1,5 +1,5 @@
  Sarolanda<h1 align="center"><img src="./hi.gif" width="50"/>Hello World! I'm Sara Holanda</h1>
-<h3 align="center">🖥️ Front-end Developer</h3>
+<h3 align="center">🖥️ Front-end Developer </h3>
 
 ## 🚀 Tech Stack  
 🔹 **Front-end:** ReactJS, Next.js, TailwindCSS  
