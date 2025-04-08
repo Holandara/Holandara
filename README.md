@@ -12,11 +12,6 @@ Portfolio
   <img src="./gif.gif" width="500"/>
 </p>
 
-<h3 align="left">🌸 Let's Connect!  </h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-holanda/" target=" "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-holanda/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a> <img src="JS.svg" alt="android" width="40" height="40"/> </a> 
@@ -27,6 +22,11 @@ Portfolio
 <a><img src="reactlogo.svg" alt="react" width="40" height="40"/> </a> 
 <a><img src="tailwind.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a><img src="typescript.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">🌸 Let's Connect!  </h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-holanda/" target=" "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-holanda/" height="30" width="40" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=holandara&label=Profile%20views&color=1499c9&style=flat" style="border-radius: 8px;" />
