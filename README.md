@@ -26,7 +26,7 @@ Portfolio
 
 <h3 align="left">🌸 Let's Connect!  </h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-holanda/" target=" "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-holanda/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/sara-holanda/ target=" "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-holanda/" height="30" width="40" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=holandara&label=Profile%20views&color=1499c9&style=flat" style="border-radius: 8px;" />
