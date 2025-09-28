@@ -2,7 +2,7 @@
 <h3 align="center">🖥️ Front-end Developer </h3>
 
 ## 🚀 Tech Stack  
-🔹 **Front-end:** ReactJS, Next.js, TailwindCSS  
+🔹 **Front-end:** ReactJS, Angular, Next.js, TailwindCSS
 🔹 **Back-end:** Node.js  
 🔹 **Tools:** Git, Figma, Vercel  
 
