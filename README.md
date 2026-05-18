@@ -7,7 +7,7 @@
 🔹 **Tools:** Git, Figma, Vercel  
 
 Portfolio
-🌟 https://portfolio-sarolanda.vercel.app/
+🌟 [https://portfolio-sarolanda.vercel.app/](https://sarolanda.netlify.app/)
 <p align="center">
   <img src="./gif.gif" width="500"/>
 </p>
